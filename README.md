@@ -1,3 +1,18 @@
+# Big Inversion
+
+Redo the Prop It Up assignment and turn the class components into functional components.
+
+Create a component called PersonCard that accepts the following props: 
+
+- firstName
+- lastName
+- age
+- hairColor
+
+Then, display four PersonCard components that show four different people, using props.
+
+<img width="544" alt="Screen Shot 2022-06-27 at 9 01 09 PM" src="https://user-images.githubusercontent.com/92617960/176082907-89247556-2487-494f-b542-91eaaf70db0d.png">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
